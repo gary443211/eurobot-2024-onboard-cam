@@ -8,6 +8,6 @@ This system means to provide position informations of the mission object plants 
 
 ![system construction](images/intro-1.png)
 
-Mainly based on yoloV8, work along with realsense D435i depth camera,the system was trained with dataset annotated on roboflow.
+Mainly based on yolov8, work along with realsense D435i depth camera,the system was trained with dataset annotated on roboflow.
 
 ![system demo](images/onboard_sys_demo.gif)
