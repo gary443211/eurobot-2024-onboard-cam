@@ -8,7 +8,7 @@ This system means to provide position informations of the mission object plants 
 
 ![system construction](images/intro-1.png)
 
-The following gragh show a more detailed look of the system ROS construction, including receiving start and ready signals from the main robot system, collecting camera informations and sending pose informations back to the robot.
+The following gragh shows a more detailed look of the system ROS construction, including receiving start and ready signals from the main robot system, collecting camera informations and sending pose informations back to the robot.
 
 ![system ros construction](images/intro-2.png)
 
