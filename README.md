@@ -1,4 +1,4 @@
-# DIT Eurobot2024 onboard-camera development historical repository 
+# DIT Eurobot2024 onboard-camera development archive repository 
 
 ## Onboard Plant Visual System
 
